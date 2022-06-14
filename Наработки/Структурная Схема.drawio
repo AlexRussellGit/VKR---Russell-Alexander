@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T15:57:56.927Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="kiRfvFNVrVfVS1xfshxK" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-14T16:06:40.256Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="TQ4o1AuAZsNKdff78Alz" version="20.0.1" type="github">
   <diagram id="5dE5xkKQiMpUn0vgo6UY" name="Page-1">
     <mxGraphModel dx="2249" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,9 +23,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9jfscR_lfVypMq8dOFOs-16" value="Датчики положения (Гироскоп + Акселерометр)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-681.5" y="450" width="127" height="70" as="geometry" />
+          <mxGeometry x="-624" y="360" width="113" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9jfscR_lfVypMq8dOFOs-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9jfscR_lfVypMq8dOFOs-16" target="9jfscR_lfVypMq8dOFOs-3" edge="1">
+        <mxCell id="9jfscR_lfVypMq8dOFOs-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9jfscR_lfVypMq8dOFOs-16" target="9jfscR_lfVypMq8dOFOs-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-219" y="371" as="sourcePoint" />
             <mxPoint x="-608" y="350" as="targetPoint" />
@@ -36,12 +36,12 @@
           <mxGeometry x="-517" y="561" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9jfscR_lfVypMq8dOFOs-23" value="УЗ датчики" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-582" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="-377" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9jfscR_lfVypMq8dOFOs-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9jfscR_lfVypMq8dOFOs-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-474" y="373" as="sourcePoint" />
-            <mxPoint x="-542" y="320" as="targetPoint" />
+            <mxPoint x="-269" y="373" as="sourcePoint" />
+            <mxPoint x="-337" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9jfscR_lfVypMq8dOFOs-32" value="МИКРОКОНТРОЛЛЕР ARDUINO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
