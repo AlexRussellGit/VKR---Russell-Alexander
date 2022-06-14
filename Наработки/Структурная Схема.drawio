@@ -1,53 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T14:57:39.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="HKKivmYMvWSPhuFBUoSa" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-14T15:56:57.800Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="NPaBDOVbOhUnUTlmhUb4" version="20.0.1" type="github">
   <diagram id="5dE5xkKQiMpUn0vgo6UY" name="Page-1">
-    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9jfscR_lfVypMq8dOFOs-2" value="СИСТЕМА УПРАВЛЕНИЯ ВДК" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9jfscR_lfVypMq8dOFOs-2" value="СИСТЕМА УПРАВЛЕНИЯ ВДК" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-580" y="40" width="204" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9jfscR_lfVypMq8dOFOs-3" value="Подсистема движения ВДК" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9jfscR_lfVypMq8dOFOs-3" value="Подсистема управления двигателями ВДК" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-718" y="280" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9jfscR_lfVypMq8dOFOs-4" value="Подсистема навигации ВДК" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9jfscR_lfVypMq8dOFOs-4" value="Подсистема контроля положения ВДК" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-437" y="280" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9jfscR_lfVypMq8dOFOs-8" value="Датчики скорости" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9jfscR_lfVypMq8dOFOs-8" value="Датчики скорости" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-730" y="360" width="78" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9jfscR_lfVypMq8dOFOs-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9jfscR_lfVypMq8dOFOs-8">
+        <mxCell id="9jfscR_lfVypMq8dOFOs-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="9jfscR_lfVypMq8dOFOs-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-713" y="413" as="sourcePoint" />
             <mxPoint x="-691" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9jfscR_lfVypMq8dOFOs-16" value="Датчики положения (Гироскоп + Акселерометр)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9jfscR_lfVypMq8dOFOs-16" value="Датчики положения (Гироскоп + Акселерометр)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-681.5" y="450" width="127" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9jfscR_lfVypMq8dOFOs-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9jfscR_lfVypMq8dOFOs-16" target="9jfscR_lfVypMq8dOFOs-3">
+        <mxCell id="9jfscR_lfVypMq8dOFOs-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9jfscR_lfVypMq8dOFOs-16" target="9jfscR_lfVypMq8dOFOs-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-219" y="371" as="sourcePoint" />
             <mxPoint x="-608" y="350" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9jfscR_lfVypMq8dOFOs-20" value="Движение Колёс" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9jfscR_lfVypMq8dOFOs-20" value="Работа двигателей колёс" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-517" y="561" width="78" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9jfscR_lfVypMq8dOFOs-23" value="УЗ датчики" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9jfscR_lfVypMq8dOFOs-23" value="УЗ датчики" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-582" y="360" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9jfscR_lfVypMq8dOFOs-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9jfscR_lfVypMq8dOFOs-23">
+        <mxCell id="9jfscR_lfVypMq8dOFOs-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9jfscR_lfVypMq8dOFOs-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-474" y="373" as="sourcePoint" />
             <mxPoint x="-542" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9jfscR_lfVypMq8dOFOs-32" value="МИКРОКОНТРОЛЛЕР ARDUINO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9jfscR_lfVypMq8dOFOs-32" value="МИКРОКОНТРОЛЛЕР ARDUINO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-552" y="120" width="148" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="9jfscR_lfVypMq8dOFOs-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9jfscR_lfVypMq8dOFOs-3" target="9jfscR_lfVypMq8dOFOs-32">
+        <mxCell id="9jfscR_lfVypMq8dOFOs-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9jfscR_lfVypMq8dOFOs-3" target="9jfscR_lfVypMq8dOFOs-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-620" y="280" as="sourcePoint" />
             <mxPoint x="-570" y="230" as="targetPoint" />
@@ -56,7 +56,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9jfscR_lfVypMq8dOFOs-35" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9jfscR_lfVypMq8dOFOs-4" target="9jfscR_lfVypMq8dOFOs-32">
+        <mxCell id="9jfscR_lfVypMq8dOFOs-35" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="9jfscR_lfVypMq8dOFOs-4" target="9jfscR_lfVypMq8dOFOs-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-420" y="310" as="sourcePoint" />
             <mxPoint x="-370" y="260" as="targetPoint" />
@@ -65,13 +65,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9jfscR_lfVypMq8dOFOs-36" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9jfscR_lfVypMq8dOFOs-32" target="9jfscR_lfVypMq8dOFOs-2">
+        <mxCell id="9jfscR_lfVypMq8dOFOs-36" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9jfscR_lfVypMq8dOFOs-32" target="9jfscR_lfVypMq8dOFOs-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-420" y="310" as="sourcePoint" />
             <mxPoint x="-370" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9jfscR_lfVypMq8dOFOs-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9jfscR_lfVypMq8dOFOs-32" target="9jfscR_lfVypMq8dOFOs-20">
+        <mxCell id="9jfscR_lfVypMq8dOFOs-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9jfscR_lfVypMq8dOFOs-32" target="9jfscR_lfVypMq8dOFOs-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-420" y="310" as="sourcePoint" />
             <mxPoint x="-370" y="260" as="targetPoint" />
