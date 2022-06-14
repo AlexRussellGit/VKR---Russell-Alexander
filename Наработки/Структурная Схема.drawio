@@ -1,1 +1,92 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T13:11:33.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.1" etag="ZLV8_eJuT92qZwKS-4G1" type="github"><diagram id="5dE5xkKQiMpUn0vgo6UY">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-14T14:26:09.582Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="iP5kjHr3NQZxHeJN_Uie" version="20.0.1" type="github">
+  <diagram id="5dE5xkKQiMpUn0vgo6UY" name="Page-1">
+    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9jfscR_lfVypMq8dOFOs-2" value="СИСТЕМА УПРАВЛЕНИЯ ВДК" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="40" width="204" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jfscR_lfVypMq8dOFOs-3" value="Подсистема движения ВДК" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-718" y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jfscR_lfVypMq8dOFOs-4" value="Подсистема навигации ВДК" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-437" y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jfscR_lfVypMq8dOFOs-6" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9jfscR_lfVypMq8dOFOs-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-462" y="170" as="sourcePoint" />
+            <mxPoint x="-427" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-337" y="120" />
+              <mxPoint x="-427" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9jfscR_lfVypMq8dOFOs-8" value="Датчики скорости" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="240" width="78" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jfscR_lfVypMq8dOFOs-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9jfscR_lfVypMq8dOFOs-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-713" y="293" as="sourcePoint" />
+            <mxPoint x="-691" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9jfscR_lfVypMq8dOFOs-15" value="Акселерометр" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-723" y="330" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jfscR_lfVypMq8dOFOs-16" value="Гироскоп" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-603" y="330" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jfscR_lfVypMq8dOFOs-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.375;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9jfscR_lfVypMq8dOFOs-15" target="9jfscR_lfVypMq8dOFOs-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-269" y="253" as="sourcePoint" />
+            <mxPoint x="-387" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-678" y="290" />
+              <mxPoint x="-643" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9jfscR_lfVypMq8dOFOs-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.62;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9jfscR_lfVypMq8dOFOs-16" target="9jfscR_lfVypMq8dOFOs-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-219" y="251" as="sourcePoint" />
+            <mxPoint x="-608" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-558" y="290" />
+              <mxPoint x="-594" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9jfscR_lfVypMq8dOFOs-20" value="Движение Колёс" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-517" y="441" width="78" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jfscR_lfVypMq8dOFOs-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9jfscR_lfVypMq8dOFOs-2" target="9jfscR_lfVypMq8dOFOs-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-502" y="243" as="sourcePoint" />
+            <mxPoint x="-452" y="193" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9jfscR_lfVypMq8dOFOs-23" value="УЗ датчики" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-582" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9jfscR_lfVypMq8dOFOs-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9jfscR_lfVypMq8dOFOs-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-474" y="253" as="sourcePoint" />
+            <mxPoint x="-542" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9jfscR_lfVypMq8dOFOs-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9jfscR_lfVypMq8dOFOs-3" target="9jfscR_lfVypMq8dOFOs-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-140" y="320" as="sourcePoint" />
+            <mxPoint x="-90" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-618" y="120" />
+              <mxPoint x="-530" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
