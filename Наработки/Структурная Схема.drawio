@@ -1,80 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T06:12:49.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="D-seAxYAGHnS5rioj4cd" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T06:13:05.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="cXtOeVL44-fwOIX854hD" version="20.0.1" type="github">
   <diagram id="5dE5xkKQiMpUn0vgo6UY" name="Page-1">
     <mxGraphModel dx="2339" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9jfscR_lfVypMq8dOFOs-2" value="СИСТЕМА УПРАВЛЕНИЯ ВДК" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="110" width="204" height="40" as="geometry" />
+          <mxGeometry x="432" y="72.5" width="204" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9jfscR_lfVypMq8dOFOs-3" value="Подсистема управления двигателями ВДК" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="282" y="350" width="200" height="40" as="geometry" />
+          <mxGeometry x="294" y="312.5" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9jfscR_lfVypMq8dOFOs-4" value="Подсистема навигации ВДК" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="563" y="350" width="200" height="40" as="geometry" />
+          <mxGeometry x="575" y="312.5" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9jfscR_lfVypMq8dOFOs-8" value="Датчики скорости" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="430" width="78" height="40" as="geometry" />
+          <mxGeometry x="282" y="392.5" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9jfscR_lfVypMq8dOFOs-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="9jfscR_lfVypMq8dOFOs-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="287" y="483" as="sourcePoint" />
-            <mxPoint x="309" y="390" as="targetPoint" />
+            <mxPoint x="299" y="445.5" as="sourcePoint" />
+            <mxPoint x="321" y="352.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9jfscR_lfVypMq8dOFOs-16" value="Датчики положения (Гироскоп + Акселерометр)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="376" y="430" width="113" height="70" as="geometry" />
+          <mxGeometry x="388" y="392.5" width="113" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9jfscR_lfVypMq8dOFOs-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9jfscR_lfVypMq8dOFOs-16" target="9jfscR_lfVypMq8dOFOs-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="781" y="441" as="sourcePoint" />
-            <mxPoint x="392" y="420" as="targetPoint" />
+            <mxPoint x="793" y="403.5" as="sourcePoint" />
+            <mxPoint x="404" y="382.5" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9jfscR_lfVypMq8dOFOs-20" value="Работа двигателей колёс" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="485" y="565" width="78" height="40" as="geometry" />
+          <mxGeometry x="497" y="527.5" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9jfscR_lfVypMq8dOFOs-23" value="УЗ датчики" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="623" y="430" width="80" height="40" as="geometry" />
+          <mxGeometry x="635" y="392.5" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9jfscR_lfVypMq8dOFOs-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9jfscR_lfVypMq8dOFOs-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="731" y="443" as="sourcePoint" />
-            <mxPoint x="663" y="390" as="targetPoint" />
+            <mxPoint x="743" y="405.5" as="sourcePoint" />
+            <mxPoint x="675" y="352.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9jfscR_lfVypMq8dOFOs-32" value="МИКРОКОНТРОЛЛЕР ARDUINO" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="448" y="190" width="148" height="70" as="geometry" />
+          <mxGeometry x="460" y="152.5" width="148" height="70" as="geometry" />
         </mxCell>
         <mxCell id="9jfscR_lfVypMq8dOFOs-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9jfscR_lfVypMq8dOFOs-3" target="9jfscR_lfVypMq8dOFOs-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="350" as="sourcePoint" />
-            <mxPoint x="430" y="300" as="targetPoint" />
+            <mxPoint x="392" y="312.5" as="sourcePoint" />
+            <mxPoint x="442" y="262.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="382" y="225" />
+              <mxPoint x="394" y="187.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9jfscR_lfVypMq8dOFOs-35" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="9jfscR_lfVypMq8dOFOs-4" target="9jfscR_lfVypMq8dOFOs-32" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="380" as="sourcePoint" />
-            <mxPoint x="630" y="330" as="targetPoint" />
+            <mxPoint x="592" y="342.5" as="sourcePoint" />
+            <mxPoint x="642" y="292.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="663" y="225" />
+              <mxPoint x="675" y="187.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9jfscR_lfVypMq8dOFOs-36" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9jfscR_lfVypMq8dOFOs-32" target="9jfscR_lfVypMq8dOFOs-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="380" as="sourcePoint" />
-            <mxPoint x="630" y="330" as="targetPoint" />
+            <mxPoint x="592" y="342.5" as="sourcePoint" />
+            <mxPoint x="642" y="292.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9jfscR_lfVypMq8dOFOs-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9jfscR_lfVypMq8dOFOs-32" target="9jfscR_lfVypMq8dOFOs-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="580" y="380" as="sourcePoint" />
-            <mxPoint x="630" y="330" as="targetPoint" />
+            <mxPoint x="592" y="342.5" as="sourcePoint" />
+            <mxPoint x="642" y="292.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LsZMY1T1WmtSOBuxNTz7-1" value="MCU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
