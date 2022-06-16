@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-16T11:34:42.337Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="QV2GcDGJRBJt7CzZD3kc" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T15:11:52.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="eG7ZZgE3szCruMj3pI0x" version="20.0.1" type="github">
   <diagram id="vuLMH9J_RhJpNWaf2Bdg" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -275,7 +275,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="z-soqtJbsbXI56dgfgmn-131" value="передает дискретный сигнал характеризующий наличие волны на входе" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="z-soqtJbsbXI56dgfgmn-131" value="передает дискретный сигнал характеризующий наличие УЗ на входе" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1091.25" y="320" width="137.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="z-soqtJbsbXI56dgfgmn-132" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="z-soqtJbsbXI56dgfgmn-131" target="z-soqtJbsbXI56dgfgmn-100" edge="1">
@@ -609,6 +609,63 @@
         </mxCell>
         <mxCell id="YbCdMVrvUSvIpddXmQIy-2" value="Двухканальный драйвер" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="220" width="87" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pOza7NLIhyJmc0-nnS70-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="z-soqtJbsbXI56dgfgmn-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="955" y="579.9999999999999" as="sourcePoint" />
+            <mxPoint x="980" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="980" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pOza7NLIhyJmc0-nnS70-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="z-soqtJbsbXI56dgfgmn-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1100" y="780" as="sourcePoint" />
+            <mxPoint x="990" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="990" y="780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pOza7NLIhyJmc0-nnS70-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="z-soqtJbsbXI56dgfgmn-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1141" y="810" as="sourcePoint" />
+            <mxPoint x="1000" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pOza7NLIhyJmc0-nnS70-4" value="Подает дискретный сигнал для отправки УЗ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pOza7NLIhyJmc0-nnS70-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.415;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOza7NLIhyJmc0-nnS70-4" target="z-soqtJbsbXI56dgfgmn-102">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="490" as="sourcePoint" />
+            <mxPoint x="1000" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="980" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pOza7NLIhyJmc0-nnS70-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOza7NLIhyJmc0-nnS70-4" target="z-soqtJbsbXI56dgfgmn-101">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="979.8" y="300.78" as="sourcePoint" />
+            <mxPoint x="970" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="990" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pOza7NLIhyJmc0-nnS70-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.588;exitY=-0.027;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="pOza7NLIhyJmc0-nnS70-4" target="z-soqtJbsbXI56dgfgmn-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="989.8" y="360.78" as="sourcePoint" />
+            <mxPoint x="970" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1001" y="190" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
