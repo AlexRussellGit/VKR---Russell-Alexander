@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T12:03:34.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="5Hfvd8-UxETfacVZlimu" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-16T08:47:18.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="CA_hGsqdyKKOhrUYHt8y" version="20.0.1" type="github">
   <diagram id="5dE5xkKQiMpUn0vgo6UY" name="Page-1">
-    <mxGraphModel dx="2858" dy="2303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -340,19 +340,19 @@
             <mxPoint x="750" y="80" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-1" value="Внутритрубный&lt;br&gt;Диагностический&lt;br&gt;Комплекса" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-1" value="Внутритрубный&lt;br&gt;Диагностический&lt;br&gt;Комплекса" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-753" y="-1090" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-2" value="Шасси" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-2" value="Шасси" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-633" y="-970" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-3" value="Подсистема управления &lt;br&gt;двигателями ВДК" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-3" value="Подсистема управления &lt;br&gt;двигателями ВДК" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="-490" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-4" value="Система Управления ВДК" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-4" value="Система Управления ВДК" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-633" y="-690" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iKRWtwtgqfNoJF-iqgra-1" target="iKRWtwtgqfNoJF-iqgra-4">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iKRWtwtgqfNoJF-iqgra-1" target="iKRWtwtgqfNoJF-iqgra-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-53" y="-800" as="sourcePoint" />
             <mxPoint x="-3" y="-850" as="targetPoint" />
@@ -361,19 +361,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-6" value="Колёса" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-6" value="Колёса" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-433" y="-870" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-7" value="Корпус" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-7" value="Корпус" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-273" y="-830" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-12" value="Контейнер АКБ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-12" value="Контейнер АКБ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-273" y="-750" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-14" value="Кабель Каналы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-14" value="Кабель Каналы" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-433" y="-790" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iKRWtwtgqfNoJF-iqgra-2" target="iKRWtwtgqfNoJF-iqgra-12">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iKRWtwtgqfNoJF-iqgra-2" target="iKRWtwtgqfNoJF-iqgra-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-533" y="-830" as="sourcePoint" />
             <mxPoint x="-413" y="-610" as="targetPoint" />
@@ -382,67 +382,67 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="iKRWtwtgqfNoJF-iqgra-14">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="iKRWtwtgqfNoJF-iqgra-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-533" y="-770" as="sourcePoint" />
             <mxPoint x="-263" y="-600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="iKRWtwtgqfNoJF-iqgra-7">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="iKRWtwtgqfNoJF-iqgra-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-533" y="-810.5300000000002" as="sourcePoint" />
             <mxPoint x="-453" y="-810.5300000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-19" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-533" y="-850.53" as="sourcePoint" />
             <mxPoint x="-433" y="-851" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="iKRWtwtgqfNoJF-iqgra-2">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-20" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="iKRWtwtgqfNoJF-iqgra-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-673" y="-930" as="sourcePoint" />
             <mxPoint x="-413" y="-510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-21" value="Микроконтроллер" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-21" value="Микроконтроллер" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-433" y="-590" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-24" value="Энкодеры" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-24" value="Энкодеры" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-283" y="-550" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-25" value="Ультразвуковые датчики" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-25" value="Ультразвуковые датчики" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-230" y="-160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-26" value="ПО" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-26" value="ПО" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-230" y="-310" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-27" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-533" y="-530" as="sourcePoint" />
             <mxPoint x="-283" y="-530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="iKRWtwtgqfNoJF-iqgra-21">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="iKRWtwtgqfNoJF-iqgra-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-533" y="-570" as="sourcePoint" />
             <mxPoint x="-93" y="-510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-30" value="Подсистема навигации ВДК" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-30" value="Подсистема навигации ВДК" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="-250" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-33" value="ПО" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-33" value="ПО" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-230" y="-100" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="iKRWtwtgqfNoJF-iqgra-3">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="iKRWtwtgqfNoJF-iqgra-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-530" y="-450" as="sourcePoint" />
             <mxPoint x="-20" y="-690" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iKRWtwtgqfNoJF-iqgra-3" target="iKRWtwtgqfNoJF-iqgra-26">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iKRWtwtgqfNoJF-iqgra-3" target="iKRWtwtgqfNoJF-iqgra-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-70" y="-340" as="sourcePoint" />
             <mxPoint x="-20" y="-390" as="targetPoint" />
@@ -451,13 +451,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="iKRWtwtgqfNoJF-iqgra-25">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="iKRWtwtgqfNoJF-iqgra-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-330" y="-140" as="sourcePoint" />
             <mxPoint x="-260" y="-130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iKRWtwtgqfNoJF-iqgra-30" target="iKRWtwtgqfNoJF-iqgra-33">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iKRWtwtgqfNoJF-iqgra-30" target="iKRWtwtgqfNoJF-iqgra-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-70" y="-470" as="sourcePoint" />
             <mxPoint x="-20" y="-520" as="targetPoint" />
@@ -466,7 +466,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iKRWtwtgqfNoJF-iqgra-4" target="iKRWtwtgqfNoJF-iqgra-30">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="iKRWtwtgqfNoJF-iqgra-4" target="iKRWtwtgqfNoJF-iqgra-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-73" y="-450" as="sourcePoint" />
             <mxPoint x="-23" y="-500" as="targetPoint" />
@@ -475,37 +475,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-44" value="Двигатели" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-44" value="Двигатели" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-230" y="-390" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="iKRWtwtgqfNoJF-iqgra-44">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="iKRWtwtgqfNoJF-iqgra-44" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-330" y="-370" as="sourcePoint" />
             <mxPoint x="10" y="-160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-49" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-330" y="-330" as="sourcePoint" />
             <mxPoint x="-70" y="-330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-50" value="Транзисторы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-50" value="Двухканальные драйвера" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-70" y="-350" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-51" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-51" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-670" y="40" as="sourcePoint" />
             <mxPoint x="-30" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-52" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-52" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-660" y="850" as="sourcePoint" />
             <mxPoint x="70" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-53" value="Вариант 3)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-53" value="Вариант 3)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-810" y="-1160" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
