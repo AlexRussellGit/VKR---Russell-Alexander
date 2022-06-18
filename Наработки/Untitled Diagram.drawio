@@ -1,1 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T04:46:16.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.1" etag="Q8rH-JMe65B1is8Tzxl4" type="github"><diagram id="QnWkOK9IJVhlyYZw0pFj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-18T05:31:01.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="hjl4rvB0JNCFKvuuCFGN" version="20.0.1" type="github">
+  <diagram id="QnWkOK9IJVhlyYZw0pFj" name="Page-1">
+    <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GwbCdhbL_YOls-211GR5-1" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GwbCdhbL_YOls-211GR5-2" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="1060" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GwbCdhbL_YOls-211GR5-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GwbCdhbL_YOls-211GR5-1" target="GwbCdhbL_YOls-211GR5-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="300" as="sourcePoint" />
+            <mxPoint x="400" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GwbCdhbL_YOls-211GR5-4" value="Ввод LP_Kol, PP_Kol, ZP_Kol, ZL_Kol,&lt;br&gt;LP_Ed, PP_Ed, &lt;br&gt;ZP_Ed, ZL_Ed,&lt;br&gt;flg_Pov, uglPov, mUgl" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="140" width="155" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="GwbCdhbL_YOls-211GR5-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GwbCdhbL_YOls-211GR5-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="320" as="sourcePoint" />
+            <mxPoint x="400" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GwbCdhbL_YOls-211GR5-7" value="flg_Pov == TRUE" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="280" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GwbCdhbL_YOls-211GR5-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GwbCdhbL_YOls-211GR5-7" target="GwbCdhbL_YOls-211GR5-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="460" as="sourcePoint" />
+            <mxPoint x="639.75" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GwbCdhbL_YOls-211GR5-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GwbCdhbL_YOls-211GR5-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="460" as="sourcePoint" />
+            <mxPoint x="160" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GwbCdhbL_YOls-211GR5-12" value="&lt;span style=&quot;&quot;&gt;mUgl ==&amp;nbsp;&lt;/span&gt;uglPov" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="400" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GwbCdhbL_YOls-211GR5-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GwbCdhbL_YOls-211GR5-12" target="GwbCdhbL_YOls-211GR5-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="350" as="sourcePoint" />
+            <mxPoint x="880" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GwbCdhbL_YOls-211GR5-15" value="&lt;span style=&quot;&quot;&gt;flg_Pov := FALSE&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GwbCdhbL_YOls-211GR5-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="GwbCdhbL_YOls-211GR5-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="520" as="sourcePoint" />
+            <mxPoint x="400" y="247.71428571428572" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="880" y="640" />
+              <mxPoint x="1000" y="640" />
+              <mxPoint x="1000" y="248" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GwbCdhbL_YOls-211GR5-17" value="&lt;span style=&quot;&quot;&gt;mUgl ==&amp;nbsp;&lt;/span&gt;uglPov" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="400" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GwbCdhbL_YOls-211GR5-19" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="485" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GwbCdhbL_YOls-211GR5-20" value="Да" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="725" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
