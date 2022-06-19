@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T10:41:40.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="RNxJ4UKUCZqp_rl6HYYA" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-19T23:23:35.339Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="tWr4dwgDf9g5hzy4cjsR" version="20.0.1" type="github">
   <diagram id="QnWkOK9IJVhlyYZw0pFj" name="Page-1">
     <mxGraphModel dx="1673" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="GwbCdhbL_YOls-211GR5-1" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="40" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GwbCdhbL_YOls-211GR5-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GwbCdhbL_YOls-211GR5-1" edge="1" target="49TMF5Y9Xf9UOMLUIHT1-5">
+        <mxCell id="GwbCdhbL_YOls-211GR5-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GwbCdhbL_YOls-211GR5-1" target="49TMF5Y9Xf9UOMLUIHT1-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="360" y="300" as="sourcePoint" />
             <mxPoint x="400" y="120" as="targetPoint" />
@@ -42,7 +42,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zyiHYRNPyCuFNflZIyQS-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1" source="zyiHYRNPyCuFNflZIyQS-7">
+        <mxCell id="zyiHYRNPyCuFNflZIyQS-12" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="zyiHYRNPyCuFNflZIyQS-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="440" as="sourcePoint" />
             <mxPoint x="400" y="210" as="targetPoint" />
@@ -100,13 +100,13 @@
         <mxCell id="zyiHYRNPyCuFNflZIyQS-22" value="Да" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="333" y="336" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="49TMF5Y9Xf9UOMLUIHT1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="49TMF5Y9Xf9UOMLUIHT1-2" target="zyiHYRNPyCuFNflZIyQS-17">
+        <mxCell id="49TMF5Y9Xf9UOMLUIHT1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="49TMF5Y9Xf9UOMLUIHT1-2" target="zyiHYRNPyCuFNflZIyQS-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="49TMF5Y9Xf9UOMLUIHT1-2" value="Вывод Данных" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="49TMF5Y9Xf9UOMLUIHT1-2" value="Вывод Данных" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="338" y="633" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="49TMF5Y9Xf9UOMLUIHT1-5" value="Ввод данных от Ультразвуковых&lt;br&gt;и Оптических датчиков&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="49TMF5Y9Xf9UOMLUIHT1-5" value="Ввод данных от Ультразвуковых&lt;br&gt;и Оптических датчиков&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="315" y="120" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
