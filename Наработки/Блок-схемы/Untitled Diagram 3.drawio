@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-19T08:23:20.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="eocqiiucGPvGTccBHraO" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-19T08:37:16.621Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="pzKmD7pwpfwyZCTPMeQA" version="20.0.1" type="github">
   <diagram id="tBChBqsfLSFzcL40G-4m" name="Page-1">
     <mxGraphModel dx="1185" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,54 +22,26 @@
         <mxCell id="bH_fyjcGMu0d4mGaG8s0-6" value="Инициализируем пины" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="270" width="210" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="bH_fyjcGMu0d4mGaG8s0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bH_fyjcGMu0d4mGaG8s0-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="510" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="bH_fyjcGMu0d4mGaG8s0-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bH_fyjcGMu0d4mGaG8s0-8" target="bH_fyjcGMu0d4mGaG8s0-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bH_fyjcGMu0d4mGaG8s0-8" value="Задаём переменные для определения времени, cкорости, расстояния" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="390" width="210" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="bH_fyjcGMu0d4mGaG8s0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="bH_fyjcGMu0d4mGaG8s0-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="980" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bH_fyjcGMu0d4mGaG8s0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bH_fyjcGMu0d4mGaG8s0-16" target="bH_fyjcGMu0d4mGaG8s0-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bH_fyjcGMu0d4mGaG8s0-16" value="Замеряем длину импульса и&lt;br&gt;пересчитываем все в см" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="900" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bH_fyjcGMu0d4mGaG8s0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bH_fyjcGMu0d4mGaG8s0-18" target="bH_fyjcGMu0d4mGaG8s0-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bH_fyjcGMu0d4mGaG8s0-18" value="Вывод данных &lt;br&gt;с щелевых датчиков 4&amp;nbsp;&amp;nbsp;оптических щелевых датчиков" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1040" width="180" height="70" as="geometry" />
+          <mxGeometry x="310" y="630" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="bH_fyjcGMu0d4mGaG8s0-19" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1160" width="120" height="80" as="geometry" />
+          <mxGeometry x="340" y="730" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bH_fyjcGMu0d4mGaG8s0-20" value="Задаём переменные для определения времени, cкорости, расстояния" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="510" width="210" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="bH_fyjcGMu0d4mGaG8s0-23" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bH_fyjcGMu0d4mGaG8s0-20">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="330" y="730" as="sourcePoint" />
-            <mxPoint x="400" y="630" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bH_fyjcGMu0d4mGaG8s0-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bH_fyjcGMu0d4mGaG8s0-24" target="bH_fyjcGMu0d4mGaG8s0-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bH_fyjcGMu0d4mGaG8s0-24" value="Задаём переменные для определения времени, cкорости, расстояния" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="630" width="210" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="bH_fyjcGMu0d4mGaG8s0-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bH_fyjcGMu0d4mGaG8s0-25" target="bH_fyjcGMu0d4mGaG8s0-16">
+        <mxCell id="bH_fyjcGMu0d4mGaG8s0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bH_fyjcGMu0d4mGaG8s0-25" target="bH_fyjcGMu0d4mGaG8s0-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bH_fyjcGMu0d4mGaG8s0-25" value="Записываем сигналы получаемые &lt;br&gt;с оптических щелевых датчиков, и пересчитываем все в скорость и пройденное расстояние" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="295" y="760" width="210" height="90" as="geometry" />
+          <mxGeometry x="295" y="510" width="210" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
