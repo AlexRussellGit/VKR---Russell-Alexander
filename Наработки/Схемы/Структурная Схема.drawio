@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-18T07:49:18.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="TJA8SNES8DkrTfGM5ir7" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T17:30:13.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Wa4DYGGpijQg-yiQZuVL" version="20.0.1" type="github">
   <diagram id="5dE5xkKQiMpUn0vgo6UY" name="Page-1">
-    <mxGraphModel dx="1747" dy="2737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2462" dy="2071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,7 +154,7 @@
             <mxPoint x="-131" y="-360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-50" value="Двухканальные драйверы" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-50" value="Двухканальны1 драйвер" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-131" y="-380" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
