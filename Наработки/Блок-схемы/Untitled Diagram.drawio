@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T19:45:36.098Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="BdsFqQhmQy-QG_1K0xre" version="20.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-22T20:36:49.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="0niVzZVFIKM3FsGoCvGF" version="20.0.2" type="github">
   <diagram id="QnWkOK9IJVhlyYZw0pFj" name="Page-1">
-    <mxGraphModel dx="1635" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ELh9NeQG8RNHvX-CflQu-1" value="АЛГОРИТМ ПОДСИСТЕМЫ НАВИГАЦИИ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="530" y="32" width="260" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="ELh9NeQG8RNHvX-CflQu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ELh9NeQG8RNHvX-CflQu-3" target="ELh9NeQG8RNHvX-CflQu-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
