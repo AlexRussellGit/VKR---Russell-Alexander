@@ -1,28 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-06-22T19:09:35.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="vPy4RBYsL9GiXhrPlIIJ" version="20.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-22T19:29:30.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="6y0G8ry4IDSg8nTDs1NF" version="20.0.2" type="github">
   <diagram id="QnWkOK9IJVhlyYZw0pFj" name="Page-1">
-    <mxGraphModel dx="934" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GwbCdhbL_YOls-211GR5-1" value="Начало&lt;br&gt;Работы" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="42" width="80" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="ELh9NeQG8RNHvX-CflQu-1" value="АЛГОРИТМ ПОДСИСТЕМЫ НАВИГАЦИИ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="32" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ELh9NeQG8RNHvX-CflQu-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ELh9NeQG8RNHvX-CflQu-3" target="ELh9NeQG8RNHvX-CflQu-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ELh9NeQG8RNHvX-CflQu-3" value="Показания с УЗ датчиков и датчиков тока" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="570" y="93" width="100" height="128" as="geometry" />
+        <mxCell id="ELh9NeQG8RNHvX-CflQu-3" value="Показания с УЗ датчиков и датчиков тока" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="560" y="92" width="110" height="131" as="geometry" />
         </mxCell>
         <mxCell id="ELh9NeQG8RNHvX-CflQu-4" value="Начальная обработка данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="122" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ELh9NeQG8RNHvX-CflQu-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ELh9NeQG8RNHvX-CflQu-4" target="GwbCdhbL_YOls-211GR5-1">
+        <mxCell id="ELh9NeQG8RNHvX-CflQu-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="ELh9NeQG8RNHvX-CflQu-4" target="ELh9NeQG8RNHvX-CflQu-76">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="332" as="sourcePoint" />
-            <mxPoint x="490" y="282" as="targetPoint" />
+            <mxPoint x="410" y="92" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ELh9NeQG8RNHvX-CflQu-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="ELh9NeQG8RNHvX-CflQu-4">
@@ -168,12 +165,9 @@
             <mxPoint x="751" y="698" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ELh9NeQG8RNHvX-CflQu-43" value="Конец&lt;br&gt;Работы" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1088" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="ELh9NeQG8RNHvX-CflQu-47" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ELh9NeQG8RNHvX-CflQu-43" target="ELh9NeQG8RNHvX-CflQu-29">
+        <mxCell id="ELh9NeQG8RNHvX-CflQu-47" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ELh9NeQG8RNHvX-CflQu-75" target="ELh9NeQG8RNHvX-CflQu-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="600" y="868" as="sourcePoint" />
+            <mxPoint x="410" y="1088" as="sourcePoint" />
             <mxPoint x="650" y="818" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -265,6 +259,12 @@
         </mxCell>
         <mxCell id="ELh9NeQG8RNHvX-CflQu-70" value="Передвижение ВДК по перестроенному маршруту" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="621" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ELh9NeQG8RNHvX-CflQu-75" value="Конец Работы" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="355" y="1090" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ELh9NeQG8RNHvX-CflQu-76" value="Начало Работы" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="355" y="32" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
