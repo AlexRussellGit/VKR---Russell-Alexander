@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T10:39:35.888Z" agent="5.0 (X11)" etag="CNOjjmQgqdQm3L-Z-InR" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T11:39:11.501Z" agent="5.0 (X11)" etag="dQs9aKAL68L3ENABwObP" version="20.2.3" type="github">
   <diagram id="5dE5xkKQiMpUn0vgo6UY" name="Page-1">
-    <mxGraphModel dx="2540" dy="2191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1601" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,7 +46,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="iKRWtwtgqfNoJF-iqgra-14" edge="1" source="iKRWtwtgqfNoJF-iqgra-2">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iKRWtwtgqfNoJF-iqgra-2" target="iKRWtwtgqfNoJF-iqgra-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-558" y="-800" as="sourcePoint" />
             <mxPoint x="-288" y="-630" as="targetPoint" />
@@ -55,7 +55,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="iKRWtwtgqfNoJF-iqgra-7" edge="1" source="iKRWtwtgqfNoJF-iqgra-2">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iKRWtwtgqfNoJF-iqgra-2" target="iKRWtwtgqfNoJF-iqgra-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-558" y="-840.5300000000002" as="sourcePoint" />
             <mxPoint x="-478" y="-840.5300000000002" as="targetPoint" />
@@ -64,7 +64,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="iKRWtwtgqfNoJF-iqgra-6">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="iKRWtwtgqfNoJF-iqgra-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-580" y="-920" as="sourcePoint" />
             <mxPoint x="-520" y="-870" as="targetPoint" />
@@ -91,7 +91,7 @@
         <mxCell id="iKRWtwtgqfNoJF-iqgra-26" value="ПО" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="-540" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="iKRWtwtgqfNoJF-iqgra-21" edge="1" source="iKRWtwtgqfNoJF-iqgra-4">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iKRWtwtgqfNoJF-iqgra-4" target="iKRWtwtgqfNoJF-iqgra-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-560" y="-600" as="sourcePoint" />
             <mxPoint x="-118" y="-501" as="targetPoint" />
@@ -103,7 +103,7 @@
         <mxCell id="iKRWtwtgqfNoJF-iqgra-30" value="Подсистема навигации ВДК" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-480" y="-240" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="iKRWtwtgqfNoJF-iqgra-25" edge="1" source="iKRWtwtgqfNoJF-iqgra-30">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iKRWtwtgqfNoJF-iqgra-30" target="iKRWtwtgqfNoJF-iqgra-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-367" y="-131" as="sourcePoint" />
             <mxPoint x="-297" y="-121" as="targetPoint" />
@@ -115,7 +115,7 @@
         <mxCell id="iKRWtwtgqfNoJF-iqgra-44" value="Двигатели" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="-380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" target="iKRWtwtgqfNoJF-iqgra-44" edge="1" source="iKRWtwtgqfNoJF-iqgra-3">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iKRWtwtgqfNoJF-iqgra-3" target="iKRWtwtgqfNoJF-iqgra-44" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-367" y="-361" as="sourcePoint" />
             <mxPoint x="-27" y="-151" as="targetPoint" />
@@ -124,7 +124,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iKRWtwtgqfNoJF-iqgra-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" target="iKRWtwtgqfNoJF-iqgra-50" source="iKRWtwtgqfNoJF-iqgra-3">
+        <mxCell id="iKRWtwtgqfNoJF-iqgra-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iKRWtwtgqfNoJF-iqgra-3" target="iKRWtwtgqfNoJF-iqgra-50" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-367" y="-321" as="sourcePoint" />
             <mxPoint x="-107" y="-321" as="targetPoint" />
@@ -136,7 +136,7 @@
         <mxCell id="iKRWtwtgqfNoJF-iqgra-50" value="Двухканальный драйвер" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-160" y="-340" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AzGp7CmtIUosblGIFHR--1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iKRWtwtgqfNoJF-iqgra-2" target="AzGp7CmtIUosblGIFHR--2">
+        <mxCell id="AzGp7CmtIUosblGIFHR--1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iKRWtwtgqfNoJF-iqgra-2" target="AzGp7CmtIUosblGIFHR--2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-558" y="-760" as="sourcePoint" />
             <mxPoint x="-464" y="-720" as="targetPoint" />
@@ -145,10 +145,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AzGp7CmtIUosblGIFHR--2" value="Выключатель" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="AzGp7CmtIUosblGIFHR--2" value="Выключатель" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-458" y="-740" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AzGp7CmtIUosblGIFHR--3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iKRWtwtgqfNoJF-iqgra-4" target="iKRWtwtgqfNoJF-iqgra-30">
+        <mxCell id="AzGp7CmtIUosblGIFHR--3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iKRWtwtgqfNoJF-iqgra-4" target="iKRWtwtgqfNoJF-iqgra-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-192" y="-311" as="sourcePoint" />
             <mxPoint x="-142" y="-361" as="targetPoint" />
@@ -157,7 +157,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AzGp7CmtIUosblGIFHR--4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iKRWtwtgqfNoJF-iqgra-4" target="iKRWtwtgqfNoJF-iqgra-3">
+        <mxCell id="AzGp7CmtIUosblGIFHR--4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iKRWtwtgqfNoJF-iqgra-4" target="iKRWtwtgqfNoJF-iqgra-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-560" y="-441" as="sourcePoint" />
             <mxPoint x="-257" y="-361" as="targetPoint" />
@@ -166,7 +166,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AzGp7CmtIUosblGIFHR--6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iKRWtwtgqfNoJF-iqgra-21" target="iKRWtwtgqfNoJF-iqgra-26">
+        <mxCell id="AzGp7CmtIUosblGIFHR--6" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iKRWtwtgqfNoJF-iqgra-21" target="iKRWtwtgqfNoJF-iqgra-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-432" y="-520" as="sourcePoint" />
             <mxPoint x="-352" y="-520" as="targetPoint" />
@@ -175,7 +175,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AzGp7CmtIUosblGIFHR--7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iKRWtwtgqfNoJF-iqgra-3" target="iKRWtwtgqfNoJF-iqgra-24">
+        <mxCell id="AzGp7CmtIUosblGIFHR--7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iKRWtwtgqfNoJF-iqgra-3" target="iKRWtwtgqfNoJF-iqgra-24" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-367" y="-401" as="sourcePoint" />
             <mxPoint x="-197" y="-311" as="targetPoint" />
@@ -184,7 +184,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AzGp7CmtIUosblGIFHR--9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iKRWtwtgqfNoJF-iqgra-4" target="iKRWtwtgqfNoJF-iqgra-30">
+        <mxCell id="AzGp7CmtIUosblGIFHR--9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="iKRWtwtgqfNoJF-iqgra-4" target="iKRWtwtgqfNoJF-iqgra-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-580" y="-601" as="sourcePoint" />
             <mxPoint x="-480" y="-200" as="targetPoint" />
